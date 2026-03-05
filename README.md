@@ -16,8 +16,9 @@ The dataset contains 10,000 bank customers with 14 features including:
 - Estimated Salary
 
 Target variable:
-Exited
-0 = Customer stayed
+
+Exited  
+0 = Customer stayed  
 1 = Customer churned
 
 ## Project Workflow
@@ -39,9 +40,25 @@ Scikit-learn
 Random Forest Classifier
 
 ## Results
-Accuracy: 86%
+Model Accuracy: **86%**
 
-## Key Insights
-- Older customers churn more frequently
-- Customers from Germany show higher churn
-- Inactive customers have higher churn probability
+Confusion Matrix and classification metrics were used to evaluate model performance.
+
+---
+
+# Visualizations
+
+## Customer Churn Distribution
+![Churn Distribution](VISUALS/churn_distribution.png)
+
+## Churn by Gender
+![Churn by Gender](VISUALS/churn_by_gender.png)
+
+## Churn by Geography
+![Churn by Geography](VISUALS/churn_by_geography.png)
+
+## Churn by Age
+![Churn by Age](VISUALS/churn_by_age.png)
+
+## Feature Importance
+![Feature Importance](VISUALS/feature_importance.png)
