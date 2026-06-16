@@ -49,16 +49,21 @@ Confusion Matrix and classification metrics were used to evaluate model performa
 # Visualizations
 
 ## Customer Churn Distribution
-![Churn Distribution](VISUALS/churn_distribution.png)
+
+![Churn Distribution](Visuals/customer_churn_Distribution.png)
 
 ## Churn by Gender
-![Churn by Gender](VISUALS/churn_by_gender.png)
+
+![Churn by Gender](Visuals/Visuals/churn_by_gender.png)
 
 ## Churn by Geography
-![Churn by Geography](VISUALS/churn_by_geography.png)
+
+![Churn by Geography](Visuals/churn_by_Geography.png)
 
 ## Churn by Age
-![Churn by Age](VISUALS/churn_by_age.png)
+
+![Churn by Age](Visuals/churn_by_age.png)
 
 ## Feature Importance
-![Feature Importance](VISUALS/feature_importance.png)
+
+![Feature Importance](Visuals/feature_importance.png)
