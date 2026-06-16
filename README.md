@@ -54,7 +54,7 @@ Confusion Matrix and classification metrics were used to evaluate model performa
 
 ## Churn by Gender
 
-![Churn by Gender](Visuals/Visuals/churn_by_gender.png)
+![Churn by Gender](Visuals/churn_by_gender.png)
 
 ## Churn by Geography
 
