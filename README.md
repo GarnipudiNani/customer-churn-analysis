@@ -6,6 +6,10 @@ This project combines Exploratory Data Analysis (EDA), Data Visualization, Featu
 
 ---
 
+## 📈 Dashboard Preview
+
+![Customer Churn Dashboard](Visuals/customer_churn_Distribution.png)
+
 ## 🚀 Project Overview
 
 Customer churn is one of the most important business challenges faced by banks and subscription-based companies. Acquiring new customers is often more expensive than retaining existing ones.
